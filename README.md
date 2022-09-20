@@ -103,12 +103,16 @@ You can add collaborators i.e., people that have write access (ability to push c
 2) In the left section under `Access`, you'll find `Collaborators`.
 3) Click `Add People` to add your team.
 
+## Open Source Contribution
+- [Why contribute to open source?](https://opensource.guide/how-to-contribute/#why-contribute-to-open-source)
+
+
 ## Assignment 0
 Head on over to the Assignment 0 URL shared with you in LMS. Be sure to log in using your GitHub account you are going to use for the rest of this course. Using that link, you can select your Qalam ID from the dropdown menu and accept this assignment. The assignment is intended to familiarize students with submissions over [GitHub Classroom](https://classroom.github.com/) platform. 
 
 More details about the assignment will be available in its README.md file.
 
-## Setting up Git Environment
+## Installation / Setting up Git Environment
 Transform your terminal for Git.
 
 ![diff](https://user-images.githubusercontent.com/113828118/191312166-59dd6bd7-bddb-42d0-830f-96318a9cd8aa.svg)

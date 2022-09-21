@@ -25,9 +25,10 @@ The following are basic git commands you need to get started. Keep in mind the f
 
 * [git help](https://git-scm.com/docs/git-help): Redirects you to the manual page of a specified git command. 
   * `USAGE: git help <sub_command>`
-  
+  //just checking if I have authorization to make changes to puplic repos.
 * [git clone](https://git-scm.com/docs/git-clone): Download the latest version of a remote repository.
   * `USAGE: git clone <remote_repo_url>`
+  
   
 * [git checkout](https://git-scm.com/docs/git-checkout): Switch between branches.
   * `USAGE: git checkout [OPTIONS] <branch_name>`
